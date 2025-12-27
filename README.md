@@ -24,7 +24,7 @@ A modern, responsive e-commerce web application built with **React**, powered by
 ---
 
 ## 🌐 Live Demo
-[Click here to view the demo](https://e-commerce-six-cyan-97.vercel.app/products)
+[Click here to view the demo](https://e-commerce-six-cyan-97.vercel.app/)
 
 ---
 
