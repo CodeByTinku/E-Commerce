@@ -32,7 +32,7 @@ A modern, responsive e-commerce web application built with **React**, powered by
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/e-commerce.git
+git clone https://github.com/codeByTinku/e-commerce.git
 cd e-commerce
 npm install
 npm run dev
